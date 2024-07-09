@@ -1,2 +1,2 @@
-This is a dataset that might be useful for models that predict a matching stereoscopic image pair from a single input image. 
+This is a dataset of stereoscopic 3d image pairs, taken from 3ds games. 
 not finished yet
